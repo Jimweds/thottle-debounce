@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
+browserstack.err
+local.log
+cjs/
+esm/
+umd/
